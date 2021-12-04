@@ -1,15 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 谢海洋
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: mailto:1468925528@qq.com
+  text: w1468925528@qq.com
 ---
 
-# Wode **Ni**
+#  谢海洋
 
 <!--
 include contact information from the front matter
@@ -21,8 +18,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
-
+## 教育
 ### **Carnegie Mellon University** `2018.9 -`
 
 ```
